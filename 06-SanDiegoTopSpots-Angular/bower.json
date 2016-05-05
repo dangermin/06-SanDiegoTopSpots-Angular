@@ -1,0 +1,22 @@
+{
+  "name": "06-SanDiegoTopSpots-Angular",
+  "main": "index.js",
+  "authors": [
+    "dangermin <dangermin.field@gmail.com>"
+  ],
+  "description": "TopSpots-Bower",
+  "keywords": [
+    "San",
+    "Diego",
+    "vacation",
+    "california",
+    "sunny",
+    "beach",
+    "bars",
+    "zoos",
+    "balboa",
+    "park"
+  ],
+  "license": "MIT",
+  "homepage": "index.html"
+}

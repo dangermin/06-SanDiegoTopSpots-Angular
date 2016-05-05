@@ -1,0 +1,23 @@
+a:visited {
+	color: yellow;
+}
+
+a {
+	color: white;
+}
+
+
+th {
+	background-color: gray;
+}
+
+#map {
+	width: 800px;
+	height: 300px;
+	}
+
+#hold-map{
+	display:flex; 
+	justify-content: center; 
+	padding: 15px;
+}
